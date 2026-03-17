@@ -97,16 +97,17 @@ WHERE
   <img src="https://streak-stats.demolab.com?user=Pramesh-Bhurtel&hide_border=true&background=0d1117&ring=005ea6&fire=FF6B6B&currStreakLabel=005ea6&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="60%"/>
 </div>
 
-<div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=Pramesh-Bhurtel&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7%22%20width%3D%2295" width="100%"/>
-</div>
-
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramesh-Bhurtel&bg_color=0d1117&color=005ea6&line=005ea6&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://gh-trophy.cdnsoft.net/?username=Pramesh-Bhurtel&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7%22%20width%3D%2295" width="100%"/>
+</div>
 
 ---
 
