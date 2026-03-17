@@ -5,18 +5,14 @@
 
 <!-- Typing SVG -->
 <a href="https://prameshbhurtel.com.np">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=005ea6&center=true&vCenter=true&width=600&lines=CS+Student+|+Computing;Aspiring+Data+Analyst;Cybersecurity+Enthusiast;Digital+Marketing+|+Fan-Page+Engagement;Always+learning+|+Always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=005ea6&center=true&vCenter=true&width=600&lines=CS+Student+|+Computing;Aspiring+Data+Analyst;Cybersecurity+Enthusiast;Digital+Marketing+|+Community+Engagement;Always+learning+|+Always+building" alt="Typing SVG" />
 </a>
 
-<br/>
+</br>
 
 [![Followers](https://img.shields.io/github/followers/Pramesh-Bhurtel?label=Followers&style=for-the-badge&logo=github&color=005ea6)](https://github.com/Pramesh-Bhurtel?tab=followers)
 [![Repositories](https://img.shields.io/badge/Repositories-Check-005ea6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pramesh-Bhurtel?tab=repositories)
 [![Visitors](https://komarev.com/ghpvc/?username=Pramesh-Bhurtel&color=005ea6&style=for-the-badge&label=VISITORS)](https://github.com/Pramesh-Bhurtel)
-
-</br>
-
-[![Website](https://img.shields.io/badge/Portfolio-005ea6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prameshbhurtel.com.np/)
 
 </div>
 
