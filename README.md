@@ -98,7 +98,7 @@ WHERE
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pramesh-Bhurtel&theme=ocean&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+  <img src="https://gh-trophy.cdnsoft.net/?username=Pramesh-Bhurtel&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7%22%20width%3D%2295" width="100%"/>
 </div>
 
 <br/>
