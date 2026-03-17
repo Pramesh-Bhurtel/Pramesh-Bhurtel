@@ -18,7 +18,7 @@
 
 ---
 
-## >>> About Me
+## About Me
 
 ```sql
 SELECT 
@@ -33,7 +33,7 @@ WHERE
 
 ---
 
-## >>> Education
+## Education
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ WHERE
 
 ---
 
-## >>> Tech Stack
+## Tech Stack
 
 **Programming & Data**
 
@@ -86,7 +86,7 @@ WHERE
 
 ---
 
-## >>> GitHub Statistics & Achievements
+## GitHub Statistics & Achievements
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pramesh-Bhurtel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=005ea6&icon_color=005ea6&text_color=c9d1d9&layout=compact" height="150px"/>
@@ -111,7 +111,9 @@ WHERE
 
 ---
 
-## /// Project [0x01]: Gorkhas Spirit | Fan Page
+## Projects and Experiences: 
+
+**Gorkhas Spirit | Fan Page**
 
 ### [![Instagram](https://img.shields.io/badge/Instagram-Gorkhas_Spirit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gorkhas.spirit/) [![Facebook](https://img.shields.io/badge/Facebook-Gorkhas_Spirit-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gorkhas.spirit/) [![TikTok](https://img.shields.io/badge/TikTok-Gorkhas_Spirit-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gorkhas.spirit/)
 
@@ -122,7 +124,7 @@ WHERE
 
 ---
 
-## >> Cybersecurity_Fundamentals
+## Cybersecurity Fundamentals
 
 - Networking Fundamentals
 - Operating Systems
@@ -131,7 +133,7 @@ WHERE
 
 ---
 
-## >> quote.txt
+## quote.txt
 
 ```text
 “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.”
@@ -140,7 +142,7 @@ WHERE
 
 ---
 
-## >>> Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -148,7 +150,6 @@ WHERE
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prameshbhurtel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pramesh_bhurtel/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pramesh.bhurtel.12)
-[![Instagram](https://img.shields.io/badge/Gorkhas_Spirit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gorkhas.spirit/)
 
 </div>
 
