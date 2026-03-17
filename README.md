@@ -111,14 +111,14 @@ WHERE
 
 ---
 
-## Projects and Experiences: 
+## Projects and Experiences
 
 **Gorkhas Spirit | Fan Page**
 
 ### [![Instagram](https://img.shields.io/badge/Instagram-Gorkhas_Spirit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gorkhas.spirit/) [![Facebook](https://img.shields.io/badge/Facebook-Gorkhas_Spirit-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gorkhas.spirit/) [![TikTok](https://img.shields.io/badge/TikTok-Gorkhas_Spirit-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gorkhas.spirit/)
 
 
-> Fanpage for [Kathmandu Gorkhas](https://www.instagram.com/ktmgorkhas/) (Cricket Team)
+> Official fanpage for [Kathmandu Gorkhas](https://www.instagram.com/ktmgorkhas/) (Cricket Team)
 
 
 
