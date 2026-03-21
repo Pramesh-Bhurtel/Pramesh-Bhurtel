@@ -89,8 +89,8 @@ WHERE
 ## GitHub Statistics & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pramesh-Bhurtel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=005ea6&icon_color=005ea6&text_color=c9d1d9&layout=compact" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramesh-Bhurtel&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9&langs_count=6" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pramesh-bhurtel&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=005ea6&icon_color=005ea6&text_color=c9d1d9&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramesh-bhurtel&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9&langs_count=6" height="150px"/>
 </div>
 
 <div align="center">
