@@ -89,12 +89,12 @@ WHERE
 ## GitHub Statistics & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramesh-bhurtel&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=005ea6&icon_color=005ea6&text_color=c9d1d9&layout=compact" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramesh-bhurtel&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9&langs_count=6" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pramesh-bhurtel&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=005ea6&icon_color=005ea6&text_color=c9d1d9&layout=compact" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramesh-bhurtel&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9&langs_count=6" height="160px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramesh-bhurtel&hide_border=true&background=0d1117&ring=005ea6&fire=FF6B6B&currStreakLabel=005ea6&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramesh-bhurtel&hide_border=true&background=0d1117&ring=005ea6&fire=FF6B6B&currStreakLabel=005ea6&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="70%"/>
 </div>
 
 <br/>
