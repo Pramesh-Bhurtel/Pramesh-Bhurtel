@@ -90,7 +90,7 @@ WHERE
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pramesh-Bhurtel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=005ea6&icon_color=005ea6&text_color=c9d1d9&layout=compact" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramesh-Bhurtel&layout=compact&hide_border=true&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9&langs_count=6" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramesh-Bhurtel&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9&langs_count=6" height="150px"/>
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@ WHERE
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramesh-Bhurtel&bg_color=0d1117&color=005ea6&line=005ea6&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramesh-Bhurtel&bg_color=0d1117&color=005ea6&line=005ea6&point=ffffff&area=true&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
 </div>
 
 <br/>
