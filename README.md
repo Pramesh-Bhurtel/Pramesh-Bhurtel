@@ -94,7 +94,7 @@ WHERE
 </div>
 
 <div align="center">
-  <img src="![pramesh-bhurtel's Streak] https://github-readme-streak-stats.herokuapp.com/?user=pramesh-bhurtel&hide_border=true&background=0d1117&ring=005ea6&fire=FF6B6B&currStreakLabel=005ea6&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramesh-bhurtel&hide_border=true&background=0d1117&ring=005ea6&fire=FF6B6B&currStreakLabel=005ea6&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="60%"/>
 </div>
 
 <br/>
