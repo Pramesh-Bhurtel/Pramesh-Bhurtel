@@ -100,7 +100,7 @@ WHERE
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramesh-Bhurtel&bg_color=0d1117&color=005ea6&line=005ea6&point=ffffff&area=true&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+  <img src="https://github-trophies.vercel.app/?username=pramesh-bhurtel&bg_color=0d1117&color=005ea6&line=005ea6&point=ffffff&area=true&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
 </div>
 
 <br/>
