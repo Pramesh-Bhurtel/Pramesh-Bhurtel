@@ -106,7 +106,7 @@ WHERE
 <br/>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=pramesh-bhurtel&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7%22%20width%3D%2295" width="90%"/>
+  <img src="https://github-trophies.vercel.app/?username=pramesh-bhurtel&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7%22%20width%3D%2295" width="100%"/>
 </div>
 
 ---
