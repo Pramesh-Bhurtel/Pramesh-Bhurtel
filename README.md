@@ -26,7 +26,7 @@ SELECT
 FROM 
     Pramesh_Bhurtel
 WHERE 
-    status = 'Learning' 
+    status = 'Student' 
     AND focus IN ('Data Analysis', 'Cybersecurity')
     AND creative_skills = 'Digital Marketing, Video Editing, Graphic Designing';
 ```
