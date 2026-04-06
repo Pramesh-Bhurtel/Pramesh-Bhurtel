@@ -86,11 +86,33 @@ WHERE
 
 ---
 
+## Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Pramesh-Bhurtel/Portfolio">
+    <img src="https://github-readme-stats-kappa.vercel.app/api/pin/?username=Pramesh-Bhurtel&repo=Portfolio&theme=darkhub&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Pramesh-Bhurtel/ViperHarmonics">
+    <img src="https://github-readme-stats-kappa.vercel.app/api/pin/?username=Pramesh-Bhurtel&repo=ViperHarmonics&theme=darkhub&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9" alt="ViperHarmonics" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Pramesh-Bhurtel/fire-ninja">
+    <img src="https://github-readme-stats-kappa.vercel.app/api/pin/?username=Pramesh-Bhurtel&repo=fire-ninja&theme=darkhub&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9" alt="fire-ninja" />
+  </a>
+  <a href="https://github.com/Pramesh-Bhurtel/email_analyzer">
+    <img src="https://github-readme-stats-kappa.vercel.app/api/pin/?username=Pramesh-Bhurtel&repo=email_analyzer&theme=darkhub&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9" alt="email_analyzer" />
+  </a>
+</div>
+
+---
+
 ## GitHub Statistics & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramesh-bhurtel&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=005ea6&icon_color=005ea6&text_color=c9d1d9&layout=compact" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramesh-bhurtel&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9&langs_count=6" height="160px"/>
+  <img src="https://github-readme-stats-kappa.vercel.app/api?username=Pramesh-Bhurtel&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=005ea6&icon_color=005ea6&text_color=c9d1d9&layout=compact" height="160px"/>
+  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=Pramesh-Bhurtel&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=005ea6&text_color=c9d1d9&langs_count=6" height="160px"/>
 </div>
 
 <div align="center">
@@ -106,7 +128,7 @@ WHERE
 <br/>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=pramesh-bhurtel&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7%22%20width%3D%2295" width="90%"/>
+  <img src="https://github-trophies.vercel.app/?username=Pramesh-Bhurtel&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="90%"/>
 </div>
 
 ---
